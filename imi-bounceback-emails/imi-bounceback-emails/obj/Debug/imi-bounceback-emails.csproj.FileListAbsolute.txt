@@ -1,0 +1,5 @@
+c:\users\benedictd\documents\visual studio 2012\Projects\imi-bounceback-emails\imi-bounceback-emails\obj\Debug\imi-bounceback-emails.csprojResolveAssemblyReference.cache
+c:\users\benedictd\documents\visual studio 2012\Projects\imi-bounceback-emails\imi-bounceback-emails\bin\imi-bounceback-emails.dll
+c:\users\benedictd\documents\visual studio 2012\Projects\imi-bounceback-emails\imi-bounceback-emails\bin\imi-bounceback-emails.pdb
+c:\users\benedictd\documents\visual studio 2012\Projects\imi-bounceback-emails\imi-bounceback-emails\obj\Debug\imi-bounceback-emails.dll
+c:\users\benedictd\documents\visual studio 2012\Projects\imi-bounceback-emails\imi-bounceback-emails\obj\Debug\imi-bounceback-emails.pdb
